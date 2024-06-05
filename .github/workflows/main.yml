@@ -1,6 +1,6 @@
 name: HelloWorld
 
-on: [push[
+on: [push]
 
 jobs:
   echo:
